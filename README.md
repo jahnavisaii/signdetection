@@ -65,3 +65,6 @@ A real-time, end-to-end Machine Learning pipeline that detects hand gestures via
 - No
 - Thank You
 - Help
+# signdetection
+Real-time Sign Language Translation AI using MediaPipe, Random Forest, Flask, and Computer Vision with browser-based hand landmark detection and live gesture recognition.
+ 8520e1e5afe590377c08019f3d3fc15aa269b4dc
